@@ -1,0 +1,7 @@
+schema:
+  version: 1
+name: Guide
+navigation:
+  - kind: page
+    label: Overview
+    path: /
