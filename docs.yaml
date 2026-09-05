@@ -2,4 +2,11 @@ schema:
   version: 1
 site:
   name: Delightful Journey
- docsets: []
+docsets:
+  - slug: guide
+    source:
+      kind: github
+      org: davidturnbull
+      repo: delightful-manual-journey-20260905
+      ref: main
+    path: documentation
