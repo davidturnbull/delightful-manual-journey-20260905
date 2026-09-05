@@ -10,3 +10,10 @@ docsets:
       repo: delightful-manual-journey-20260905
       ref: main
     path: documentation
+  - slug: reference
+    source:
+      kind: github
+      org: davidturnbull
+      repo: delightful-manual-journey-20260905
+      ref: main
+    path: reference

@@ -1,0 +1,7 @@
+schema:
+  version: 1
+name: Reference
+navigation:
+  - kind: page
+    label: Reference overview
+    path: /
